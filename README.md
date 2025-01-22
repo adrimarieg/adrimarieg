@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Adrianne](https://github.com/adrimarieg)
+# Hi there 👋 Welcome to my profile!
 
 Here's a quick overview of my most used programming languages:
 
