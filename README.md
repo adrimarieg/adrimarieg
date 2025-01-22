@@ -1,10 +1,9 @@
-## Hi there 👋
+# Hi there 👋 I'm [Adrianne](https://github.com/adrimarieg)
 
-# I'm [Adrianne](https://github.com/adrimarieg)
-
-Welcome to my GitHub profile! Here's a quick overview of my most used programming languages:
+Here's a quick overview of my most used programming languages:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrimarieg&layout=compact)
+
 <!--
 ## My GitHub Stats
 
