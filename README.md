@@ -1,10 +1,10 @@
-# Hi! 👋 My name is Adrianne
+# Hi there 👋 My name is Adrianne!
 
 Here's a quick overview of my most used programming languages:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrimarieg&layout=compact)
 
-and a few facts about me:
+..and a few facts about me:
 
 - 🔭 I’m currently working on a housing mobile application
 - 🌱 I’m currently learning iOS Development
