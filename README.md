@@ -9,7 +9,6 @@ and a few facts about me:
 - 🔭 I’m currently working on a housing mobile application
 - 🌱 I’m currently learning iOS Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adriannegonzalez/)
-- 😄 Pronouns: she/her
 
 <!--
 ## My GitHub Stats
