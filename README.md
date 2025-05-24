@@ -4,6 +4,13 @@ Here's a quick overview of my most used programming languages:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrimarieg&layout=compact)
 
+and a few facts about me:
+
+- 🔭 I’m currently working on a housing mobile application
+- 🌱 I’m currently learning iOS Development
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adriannegonzalez/)
+- 😄 Pronouns: she/her
+
 <!--
 ## My GitHub Stats
 
