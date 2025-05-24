@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to my profile!
+# Hi! 👋 My name is Adrianne
 
 Here's a quick overview of my most used programming languages:
 
