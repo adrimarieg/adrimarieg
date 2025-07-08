@@ -6,8 +6,7 @@ Here's a quick overview of my most used programming languages:
 
 ..and a few facts about me:
 
-- 🔭 I’m currently working on a housing mobile application
-- 🌱 I’m currently learning iOS Development
+- 🔭 I’m currently working on an iOS application to increase cost transperency in the housing rental market
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adriannegonzalez/)
 
 <!--
