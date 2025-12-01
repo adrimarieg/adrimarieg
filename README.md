@@ -1,8 +1,6 @@
 # Hi there 👋 My name is Adrianne!
 
-Here's a quick overview of my most used programming languages:
-
-..and a few facts about me:
+A few facts about me:
 
 - ⚽️ I’m currently working on an location-sharing fandom app to launch before FIFA World Cup 2026
 - 🌱 Check out my [portfolio projects](adrimarieg.github.io)!
@@ -11,7 +9,9 @@ Here's a quick overview of my most used programming languages:
 <!--
 ## My GitHub Stats
 
+Here's a quick overview of my most used programming languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrimarieg&layout=compact)
+..and a few facts about me:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrimarieg&show_icons=true&hide_title=true)
 
