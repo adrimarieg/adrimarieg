@@ -6,7 +6,8 @@ Here's a quick overview of my most used programming languages:
 
 ..and a few facts about me:
 
-- 🔭 I’m currently working on an iOS application to increase cost transperency in the housing rental market
+- ⚽️ I’m currently working on an location-sharing fandom app to launch before FIFA World Cup 2026
+- 🌱 Check out my [portfolio projects](adrimarieg.github.io)!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adriannegonzalez/)
 
 <!--
@@ -14,6 +15,8 @@ Here's a quick overview of my most used programming languages:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrimarieg&show_icons=true&hide_title=true)
 
+Old:
+- 🔭 I’m currently working on an iOS application to increase cost transperency in the housing rental market
 
 
 **adrimarieg/adrimarieg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
