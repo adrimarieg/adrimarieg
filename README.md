@@ -3,6 +3,7 @@
 Here's a quick overview of my most used programming languages:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrimarieg&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrimarieg&show_icons=true&hide_title=true)
 
 ..and a few facts about me:
 
