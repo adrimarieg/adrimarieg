@@ -3,6 +3,9 @@
 A few facts about me:
 
 - ⚽️ I’m currently working on an location-sharing fandom app to launch before FIFA World Cup 2026
+- 🎧 Learning to ~vibez~ code [music production through code for live performance]. Using Strudel and NVim as primary tools.
+- 📚 Studying the maths behind machine image dissection and reconstruction
+  
 - 🌱 Check out my [portfolio projects](https://adrimarieg.github.io)!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adriannegonzalez/)
 
