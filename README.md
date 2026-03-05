@@ -2,7 +2,7 @@
 
 A few facts about me:
 
-- 👩‍💻 Building a backend that processes ROS sensor data using a Quansar QCar and generates route mapping for accessibility and physical special needs.
+- 👩‍💻 Building a backend that processes ROS sensor data using a Quanser QCar and generates route mapping for accessibility and physical special needs.
 - ⚽️ I’m currently working on an location-sharing fandom app to launch before FIFA World Cup 2026
 - 🎧 Experimenting with Algorave [music production through code for live performance]. Using Strudel and NVim as primary tools.
   
