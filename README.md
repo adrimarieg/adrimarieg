@@ -2,8 +2,7 @@
 
 A few facts about me:
 
-- 👩‍💻 Machine Learning Engineer
-- ⚽️ I’m currently working on an location-sharing fandom app to launch before FIFA World Cup 2026
+- 👩‍💻 Software Engineer
 - 🎧 Experimenting with Algorave [music production through code for live performance]. Using Strudel and NVim as primary tools.
   
 - 🌱 Check out my [portfolio projects](https://adrimarieg.github.io)!
